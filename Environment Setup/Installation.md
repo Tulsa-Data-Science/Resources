@@ -2,7 +2,10 @@
 If you are wanting to contribute code in a project, or to work on Python projects on your personal computer, follow these instructions
 
 # Environment Setup 
-0. (follow along on YouTube for [Windows](https://www.youtube.com/watch?v=3r1TRUAM5rY) and [Linux/Mac](https://www.youtube.com/watch?v=cpMkdjHXJS4):)
+0. (follow along on YouTube for:) 
+		- [Windows](https://www.youtube.com/watch?v=3r1TRUAM5rY) 
+		- [Linux](https://www.youtube.com/watch?v=cpMkdjHXJS4)
+		- [Mac](https://youtu.be/uliuzDST39M)
 1. Download [latest Anaconda release](https://www.anaconda.com/download/) (*for Python 3*)
 2. Follow installation procedures
 3. In terminal ('Anaconda Prompt' for Windows), create the 'tds' environment.
